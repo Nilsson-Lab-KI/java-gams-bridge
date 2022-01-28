@@ -1,2 +1,2 @@
-# mathematica-gams-bridge
-A mathematica package for connecting to the GAMS optimization engine
+# Java GAMS bridge
+Java classes for connecting to the GAMS optimization software
